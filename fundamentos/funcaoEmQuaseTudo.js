@@ -1,0 +1,1 @@
+//quase tudo em js é uma função//
