@@ -6,9 +6,9 @@ const inteiroaleatorio = function(min,max){
          return Math.floor(valor)
 
 }
+ 
 
-
-
+ 
 let op 
 do {
     op = inteiroaleatorio(10, -1)

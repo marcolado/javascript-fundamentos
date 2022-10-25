@@ -10,7 +10,7 @@ const teste = function (nota){
         case 4: case 5: case 6:
             console.log('recuperação')
             break
-            case 0: case 1: case 2: case 3:
+            case 0: case 1: case 2: case 3: 
                 console.log('se fudeu, papai')
                 break
             default:

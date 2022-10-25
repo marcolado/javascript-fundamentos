@@ -8,4 +8,4 @@ function teste(num){
     }
 }
 teste(7)
-teste(6)
+teste(6) 

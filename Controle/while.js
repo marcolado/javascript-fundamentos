@@ -10,4 +10,4 @@ while (op != 10){
     console.log(`você escolheu ${op}.`)
 }
 console.log('falou!')
- 
+  

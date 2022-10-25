@@ -8,3 +8,4 @@ function resultado (num) {
 resultado(8)
 
 //não usar ponto e vírgula em estrutas de controle 
+ 
